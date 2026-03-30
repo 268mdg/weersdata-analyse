@@ -1,0 +1,28 @@
+📋 Opdracht van je opdrachtgever
+
+Van: SportScout Analytics BV
+Aan: Data Analist (jij)
+Onderwerp: FIFA 21 Speleranalyse – Scouting Rapport
+
+Goedemiddag,
+Wij adviseren voetbalclubs bij het aantrekken van talent. We hebben jou ingehuurd om onze FIFA 21 dataset te analyseren en een helder rapport te maken.
+We willen de volgende vragen beantwoord zien:
+
+🌍 Welke landen leveren de beste spelers?
+Top 10 landen op basis van gemiddelde overall rating
+
+👴 Wat is de piekleeftijd van een voetballer?
+Gemiddelde overall rating per leeftijd – op welke leeftijd zijn spelers het best?
+
+💰 Zijn dure spelers ook betere spelers?
+Verband tussen marktwaarde (value_eur) en overall rating
+
+🏆 Wie zijn de top 10 beste spelers overall?
+Naam, club, nationaliteit en rating
+
+🎯 Welke club heeft de hoogste gemiddelde spelerskwaliteit?
+Top 10 clubs op basis van gemiddelde overall rating
+
+Deliverable: Een Jupyter Notebook met berekeningen én grafieken.
+Succes!
+SportScout Analytics BV
